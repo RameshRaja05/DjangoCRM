@@ -73,7 +73,7 @@ DjangoCRM is licensed under the MIT License. See the LICENSE file for more infor
 
 ## Learn more about Django
 
-It's inspired from this youtube channel Justdjango's tutorial get started with django. It's a 9 hour long video. He walks through all important concepts such as Authentication,Authorization,Permisssion,Reset password. Feel free to check it out.
+It's inspired from this youtube channel Justdjango's tutorial get started with django. It's a 9 hour long video. He walks through all important concepts such as Authentication,Authorization,Permisssion,Reset password etc. Feel free to check it out.
 
 
 
